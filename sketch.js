@@ -48,7 +48,7 @@ protagonist.addAnimation("Walking", protagImgWalking)
 protagonist.scale = 0.4
 
 invisblock1 = createSprite(600,1000,2000,200)
-invisblock1.visible = true;
+invisblock1.visible = false;
 invisblock2 = createSprite(1395,880,370,200)
 invisblock2.visible = false ;
 invisblock3 = createSprite(1750,750,370,200)
